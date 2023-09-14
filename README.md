@@ -18,8 +18,8 @@ CareerFoundry’s Data Immersion curriculum and was evaluated with feedback by a
 ## Data Cleaning, Integration, and Transformation
 * Checked for duplicates and null values within each data table.
 * Checked for value format consistency within each column.
-* Performed inner joins to connect Country table to Customer table
-* Wrote outer statement to generate new variables "average_amount_paid" and "top_customer_count"
+* Performed inner joins to connect tables.
+* Wrote outer statement to generate new variables (i.e. "average_amount_paid" and "top_customer_count").
 
 ## Visualizations
 Below are a few of the key visuals included in this analysis:
