@@ -1,4 +1,4 @@
-Here is a SQL query using multiple inner joins to find the top 5 paying customers from countries with the highest number of customers:
+--Here is a SQL query using multiple inner joins to find the top 5 paying customers from countries with the highest number of customers:
 
 SELECT customer.customer_id,
        customer.first_name,
