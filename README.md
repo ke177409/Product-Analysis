@@ -15,6 +15,7 @@ This repository contains the following:
 
 ## Tools & Skills
 PostgreSQL
+* Relational databases
 * Filter, summarize, and clean data
 * Join tables within dataset using primary and foreign keys
 * Utilize subqueries and common table expressions to perform more complex queries
