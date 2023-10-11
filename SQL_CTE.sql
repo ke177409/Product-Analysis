@@ -1,4 +1,4 @@
-Here is a SQL common table expresion that finds the average amount paid by the top 5 customers:
+--Here is a SQL common table expresion that finds the average amount paid by the top 5 customers:
 
 WITH total_amount_paid (customer_id, first_name, last_name, country) AS
 (SELECT customer.customer_id,
