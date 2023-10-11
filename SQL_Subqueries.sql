@@ -1,4 +1,4 @@
-Here is a SQL subquery used to find the average amount paid by the top 5 customers:
+--Here is a SQL subquery used to find the average amount paid by the top 5 customers:
 
 SELECT customer_id,
        first_name,
