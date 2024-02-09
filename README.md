@@ -59,7 +59,7 @@ Customer identification numbers were used to count customers in each country wor
 
 <img src="images/Top%2010%20countries.png" />
 
-Seven of the ten countries with the largest customer populations were in Asia.  India, in particular, had the highest number of customers overall. Asia as a region exhibited a significantly higher total revenue when compared to other regions across the globe.
+Seven of the ten countries with the largest customer populations were in Asia.  India had the highest number of customers overall. Asia as a region exhibited a significantly higher total revenue when compared to other regions across the globe.
 
 <p align="center">
 <img src="images/Map%20Revenue%20by%20Region.png" width="550" height="450">
@@ -69,7 +69,7 @@ Seven of the ten countries with the largest customer populations were in Asia.  
 
 Next, I counted the number of customers located in cities within the top ten countries. Aurora, USA, had the highest number of customers among the cities considered. However, the remaining cities contained only one customer each, suggesting that they did not represent areas with significant customer bases.
 
-To identify the top customers, a search was conducted based on total amount spent and total rentals, without constraining the search to a particular city or country.
+To identify the top customers, a search was conducted based on the total amount spent and total rentals, without constraining the search to a particular city or country.
 
 <p align="center">
 <img src="images/Top%20Paying%20Customers%20%233.png"/>
@@ -97,7 +97,7 @@ These customers exhibit a high lifetime value for the company due to their combi
 * Regularly update film inventory based on customer demographics and behavior.
 * 
 ## The Learning Experience
-This project involved a lot of troublehshooting and practice with my mentor. Common table expressions and subqueries were one of the biggest challenges, but allowed me to create variables that provided useful information in my analysis.
+This project involved a lot of troubleshooting and practice with my mentor. Common table expressions and subqueries were one of the biggest challenges but allowed me to create variables that provided useful information in my analysis.
 
 ## Dataset
 *Rockbuster Stealth LLC* [Data Set]. CareerFoundry. https://github.com/ke177409/Product-Analysis/blob/main/Rockbuster.zip
