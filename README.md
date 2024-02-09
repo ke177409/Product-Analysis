@@ -14,7 +14,7 @@ Tableau
 * Visualizations
 
 ## Purpose & Context
-I conducted an in-depth exploratory analysis on multiple datasets, employing SQL and Tableau to extract valuable insights addressing crucial stakeholder inquiries. I was responsible for defining the project's scope and determining the ultimate presentation format. This initiative was an integral component of CareerFoundry's Data Immersion curriculum, with the added benefit of expert evaluation and constructive feedback provided by both a tutor and mentor.
+I was responsible for defining the project's scope and determining the final presentation format. This project was a part of CareerFoundry’s Data Immersion curriculum and was evaluated by my tutor and mentor.
 
 ## Data Cleaning, Integration, & Transformation
 * Corrected missing and inaccurate values by applying appropriate insert commands.
