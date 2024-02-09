@@ -97,7 +97,7 @@ These customers exhibit a high lifetime value for the company due to their combi
 * Regularly update film inventory based on customer demographics and behavior.
 * 
 ## The Learning Experience
-Learning and using SQL was the biggest challenge in this project. I overcame this challenge by researching different SQL queries, studying the syntax intricacies, and valuable practice sessions with my mentor. Once I understood how to apply common table expressions and subqueries, I was able to develop more complex variables that provided useful information in my analysis.
+This project involved a lot of troublehshooting and practice with my mentor. Common table expressions and subqueries were one of the biggest challenges, but allowed me to create variables that provided useful information in my analysis.
 
 ## Dataset
 *Rockbuster Stealth LLC* [Data Set]. CareerFoundry. https://github.com/ke177409/Product-Analysis/blob/main/Rockbuster.zip
