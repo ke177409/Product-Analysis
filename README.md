@@ -90,12 +90,12 @@ These customers exhibit a high lifetime value for the company due to their combi
 </p>
 
 ## Recommendations & Findings
-* Given the substantial customer base and revenue streams in Asian markets, it is advisable to focus on promoting the company's brand in these regions, capitalizing on the existing customer presence.
-* The popularity of PG-13 rated films and their ability to generate the most substantial total revenue should guide the company's film acquisition and promotion strategies.
-* While top customers were identified based on rental frequency and total spending, it is essential to consider additional factors such as membership duration to obtain a more comprehensive understanding of customer loyalty.
-* To refine customer segmentation and enhance targeting, additional data measures including customer age, language preferences, movie genres, and more should be incorporated into the analysis. This will enable a more tailored approach to serving various customer segments.
-* The company should regularly update its film inventory based on customer demographics and behavior, ensuring that the movie offerings align with the preferences and expectations of the customer base.
-
+* Focus on promoting the company's brand in Asian markets to capitalize on the existing customer presence.
+* Acquire and promote more PG-13 rated films to generate the most revenue.
+* Consider additional factors such as membership duration to obtain a more comprehensive understanding of customer loyalty.
+* Incorporate additional customer data measures, such as customer age, language preferences, movie genres, to serve various customer segments.
+* Regularly update film inventory based on customer demographics and behavior.
+* 
 ## The Learning Experience
 Learning and using SQL was the biggest challenge in this project. I overcame this challenge by researching different SQL queries, studying the syntax intricacies, and valuable practice sessions with my mentor. Once I understood how to apply common table expressions and subqueries, I was able to develop more complex variables that provided useful information in my analysis.
 
