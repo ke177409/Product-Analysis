@@ -17,8 +17,8 @@ Tableau
 I was responsible for defining the project's scope and determining the final presentation format. This project was a part of CareerFoundry’s Data Immersion curriculum and was evaluated by my tutor and mentor.
 
 ## Data Cleaning, Integration, & Transformation
-* Corrected missing and inaccurate values by applying appropriate insert commands.
-* Removed rows of data that did not conform to the project's criteria, executed through the use of delete commands.
+* Corrected missing and inaccurate values using insert commands.
+* Removed irrelevant data using delete commands.
 * Checked for duplicate values within each data table.
 * Checked for value format consistency within each column.
 * Performed inner joins to connect tables.
